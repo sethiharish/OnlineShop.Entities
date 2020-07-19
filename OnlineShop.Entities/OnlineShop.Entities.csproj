@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <PackageId>OnlineShop.Entities</PackageId>
+    <Version>1.0.0</Version>
+    <Title>OnlineShop Entities</Title>
+    <Authors>Harish Sethi</Authors>
+    <Company>JMD</Company>
+    <PackageDescription>This package contains the entities for OnlineShop</PackageDescription>
+    <PackageTags>OnlineShop Entities</PackageTags>
+    <RepositoryUrl>https://github.com/sethiharish/OnlineShop.Entities</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
